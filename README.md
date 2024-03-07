@@ -13,27 +13,27 @@
 <header>
     <nav class="navbar bg-body-tertiary fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">Sample Site</a>
+            <a class="navbar-brand" href="index.html">torikara Site</a>
         </div>
     </nav>
 </header>
 <main>
     <div class="container mt-5 py-5">
         <div class="p-4 rounded bg-body-secondary">
-            <h1 class="display-5 fst-italic">Welcome to Sample Site</h1>
-            <p class="lead mt-5">ここにテキストが入ります。ここにテキストが入ります。ここにテキストが入ります。ここにテキストが入ります。</p>
-            <p class="lead">ここにテキストが入ります。ここにテキストが入ります。ここにテキストが入ります。ここにテキストが入ります。</p>
+            <h1 class="display-5 fst-italic">Welcome to torikara Site</h1>
+            <p class="lead mt-5">hello</p>
+            <p class="lead">see you</p>
             <p class="lead"><a href="about.html">さらに詳しく</a></p>        
         </div>
         <div class="row my-5">
             <h2>Contact</h2>
-            <p>お問い合わせは <a href="#">sample@sample.com</a> にお送りください。</p>
+            <p>お問い合わせは <a href="#">scratch.mit.edu</a> にお送りください。</p>
         </div>
     </div>
 </main>
 <footer class="py-3 fixed-bottom bg-body-tertiary">
   <div class="text-center">
-    <span class="text-body-secondary">© Sample Site</span>
+    <span class="text-body-secondary">© torikara Site</span>
   </div>
 </footer>
 </body>
